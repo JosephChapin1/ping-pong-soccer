@@ -1,9 +1,13 @@
-/* THIS IS MY STYLESHEET (e.g. "assets/styles/my-style.css") */
+/*     My Style Sheeet     */
 
 :root {
   --accent-color: #346FB3
 }
-  
+
+
+/****************************************/
+/*          elementFormatting           */
+/****************************************/
 p {
   font-family: Arial, Helvetica, sans-serif;
   color: '#ccc';
@@ -17,6 +21,9 @@ h2 {
   font-family: Arial, Helvetica, sans-serif
 }
 
+/****************************************/
+/*              Sections                */
+/****************************************/
 
 .accent-section {
   background-color: var(--accent-color);
