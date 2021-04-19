@@ -112,3 +112,18 @@ h2 {
   flex: 50%;
   column-width: auto;
 }
+
+.contactUs {
+  height: 700px;
+  background-image: url(../../documents/field.jpg); 
+  object-fit: cover; 
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-left: 3%;
+}
+
+.contactUs h1 {
+  padding-top: 5%;
+  opacity: 100%
+}
