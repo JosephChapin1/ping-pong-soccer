@@ -113,6 +113,7 @@ h2 {
   column-width: auto;
 }
 
+/* leveraged help from here to add background-image to div: https://www.freecodecamp.org/news/how-to-add-an-image-url-to-your-div/ */
 .contactUs {
   height: 700px;
   background-image: url(../../documents/field.jpg); 
@@ -125,5 +126,4 @@ h2 {
 
 .contactUs h1 {
   padding-top: 5%;
-  opacity: 100%
 }
